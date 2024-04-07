@@ -1,0 +1,1 @@
+# MAUI_Sqlite_Encryption
